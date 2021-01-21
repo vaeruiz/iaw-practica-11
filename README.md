@@ -41,4 +41,4 @@ De esta forma haremos un escaneo completo de nuestro sitio Wordpress, aquí se m
 
 ![Imagen de captura parte 1](/capturas/Demostracion_1.PNG)
 
-![Imagen de captura parte 2](capturas/Demostracion_2.PNG)
+![Imagen de captura parte 2](capturas/Demostracion_2.PNG.png)

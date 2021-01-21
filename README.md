@@ -40,3 +40,5 @@ Donde IP será la dirección IP o DNS donde se encuentra alojado nuestro sitio W
 De esta forma haremos un escaneo completo de nuestro sitio Wordpress, aquí se muestran un par de capturas del resultado obgtenido al escanear mi sitio Wordpress:
 
 ![Esta es una imagen de ejemplo](/capturas/Demostracion_1.PNG)
+
+![Esta es una imagen de ejemplo](/capturas/Demostracion_2.PNG)

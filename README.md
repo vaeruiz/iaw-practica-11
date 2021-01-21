@@ -39,6 +39,6 @@ Para utilizar la herramienta lo haremos de la siguiente forma, pondremos en func
 Donde IP será la dirección IP o DNS donde se encuentra alojado nuestro sitio Wordpress.
 De esta forma haremos un escaneo completo de nuestro sitio Wordpress, aquí se muestran un par de capturas del resultado obgtenido al escanear mi sitio Wordpress:
 
-![Esta es una imagen de ejemplo](/capturas/Demostracion_1.PNG)
+![Imagen de captura parte 1](/capturas/Demostracion_1.PNG)
 
-![Esta es una imagen de ejemplo](/capturas/Demostracion_2.PNG)
+![Imagen de captura parte 2](capturas/Demostracion_2.PNG.png)

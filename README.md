@@ -43,4 +43,20 @@ De esta forma haremos un escaneo completo de nuestro sitio Wordpress, aquí se m
 
 ![Imagen de captura parte 2](capturas/Demostracion_2.png)
 
+# WP-Scan con token
+
+Podemos hacer uso de un token para la herramienta con la que nos permite hacer un escaneo mucho más efectivo y además obtener vulnerabilidades que concuerdan con su base de datos.
+
+Para obtener este token tenemos que registrarnos en su [página](https://wpscan.com/api).
+
+Después de registrarnos iniciamos sesión y en nuestra página principal veremos el apartado API Token, que tiene una cadena de caractéres de número y letras.
+
+![Imagen de captura parte 3](capturas/Demostraci%C3%B3n3.png?raw=true)
+
+Copiamos esta cadena de caracteres (ctrl+c) y ejecutamos el contenedor WP-Scan haciendo uso de nuestro token, el comando sería así:
+
+>docker run -it --rm wpscanteam/wpscan --url http://Ip --api-token 3xYAqTuWaLYGsYramoSsYFkaPsepiEvqUfDlV8d737I
+
+De esta forma se hará un escaneo avanzado del sitio Wordpress que especifiquemos.
+
 Estos son los pasos a seguir para poder utilizar la herramienta WPScan y auditar nuestro Wordpress.

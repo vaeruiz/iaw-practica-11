@@ -45,7 +45,7 @@ De esta forma haremos un escaneo completo de nuestro sitio Wordpress, aquí se m
 
 # WP-Scan con token
 
-Podemos hacer uso de un token para la herramienta con la que nos permite hacer un escaneo mucho más efectivo y además obtener vulnerabilidades que concuerdan con su base de datos.
+Podemos hacer uso de un token para la herramienta con la que nos permite hacer un escaneo mucho más efectivo y además obtener vulnerabilidades que nos ofrece su propia base de datos.
 
 Para obtener este token tenemos que registrarnos en su [página](https://wpscan.com/api).
 
